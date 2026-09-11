@@ -24,7 +24,7 @@
 
 # Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,react,nodejs,git,github,vscode,mysql,sqlite,linux,tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=python,c,c++,java,html,css,javascript,,git,github,vscode,linux"/>
 </p>
 
 # Streak
